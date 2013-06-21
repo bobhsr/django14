@@ -1,0 +1,4 @@
+-e git+https://github.com/django-nonrel/django.git@nonrel-1.4#egg=Django
+-e git+https://github.com/django-nonrel/mongodb-engine.git@mongodb-engine-1.4-beta#egg=django_mongodb_engine
+-e git+https://github.com/django-nonrel/djangotoolbox.git@toolbox-1.4#egg=djangotoolbox
+
